@@ -1,4 +1,4 @@
-# RAG-Based AI Assistant - AAIDC Project 1 Template
+# RAG-Based AI Assistant
 
 ## 🤖 What is this?
 
